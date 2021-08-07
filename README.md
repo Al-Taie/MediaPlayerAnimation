@@ -3,10 +3,8 @@
 # Media Player Animation
 ### XML Android Studio
 
-![preview](images/preview.gif)
-
 <table>
   <tr>
-    <td><pre>Preview Design</pre><img src="images/preview.gif" alt="preview"></td>
+    <td><pre>Preview Design</pre><img src="images/preview.gif" alt="preview" width=240px height=480px></td>
    </tr> 
 </table>
