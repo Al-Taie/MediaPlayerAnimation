@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MediaPlayer" parent="Theme.AppCompat.Light">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@android:color/holo_red_dark</item>
+        <item name="colorPrimaryVariant">@android:color/holo_red_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!--    ACTION BAR    -->
+        <item name="titleTextColor">@color/white</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+
+</resources>
